@@ -17,3 +17,8 @@ ol>li {
 ul>li {
   font-family: Arial;
 }
+
+div.column {
+  width: 50%;
+  float: left;
+}
