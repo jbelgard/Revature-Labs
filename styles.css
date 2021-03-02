@@ -1,0 +1,19 @@
+div {
+  background-color: green;
+}
+
+p {
+  color: red;
+}
+
+li {
+  font-size: 16pt;
+}
+
+ol>li {
+  font-family: Courier;
+}
+
+ul>li {
+  font-family: Arial;
+}
